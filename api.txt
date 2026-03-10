@@ -1,2 +1,2 @@
 HTTP API:
-7876315392:AAGh95qGaHWhoo6XIkBUW60XuvfHPCVgOL4
+"Ваш API с сайта валют"
