@@ -43,6 +43,7 @@ pip install -r requirements.txt
 Для погоды: OpenWeatherMap (бесплатная регистрация)
 
 Для валют: ExchangeRate-API или используйте бесплатный API Центробанка
+пропишите ключи в bot.py
 
 Запустите бота:
 
